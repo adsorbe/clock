@@ -1,0 +1,71 @@
+#main {    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: grey;
+           border: 1px solid black;
+           height: 300px;
+           width:300px;
+           margin: 0 auto;
+           padding-top:20px;
+}
+#canvas {    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: grey;
+    border: 1px solid black;
+    height: 300px;
+    width:300px;
+    margin: 0 auto;
+
+}
+
+#buttons{box-sizing: border-box;
+    
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    background-color:white;
+    text-align: center;
+    
+    border: 1px solid black;
+    height: 100px;
+    width:280px;
+    margin: 0 auto;
+    
+
+
+
+}
+#screen{box-sizing: border-box;
+    background-color:wheat;
+    margin-top: 30px;
+    margin-left:10px;
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    
+    border: 1px solid black;
+    height: 100px;
+    width:280px;
+}
+#startButton{
+    background: brown;
+    border: 1px solid black;
+    height:80px;
+    width:120px;
+
+}
+#stopButton{
+    background: brown;
+   
+    border: 1px solid black;
+    height:80px;
+    width:120px;
+    
+}
+.time_position{
+    height: 70px;
+    width: 50px;
+    border: 1px solid black;
+}
+
+
+
